@@ -235,13 +235,6 @@ Open_To:
 
 
 
-<p align="center">
-
-"Engineering elegant systems that scale from ideas to impact."
-
-</p>
-
-
 
 <p align="center">
 
