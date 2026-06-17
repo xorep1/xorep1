@@ -62,7 +62,7 @@ My work combines strong software engineering principles with machine learning, b
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,ts,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash" />
 </p>
 
 ## Frontend
@@ -74,7 +74,7 @@ My work combines strong software engineering principles with machine learning, b
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,Rabbitmq,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis" />
 </p>
 
 ## Cloud, DevOps & Tooling
