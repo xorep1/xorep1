@@ -147,20 +147,6 @@ Developed a seamless interface between a modern web frontend and local AI models
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-</p>
-
----
-
 # GitHub Analytics
 
 <p align="center">
@@ -203,3 +189,62 @@ Open_To:
   - Full-Stack Roles
   - Backend Architecture
   - Open Source Collaboration
+```
+
+# Connect
+
+
+
+<p align="center">
+
+<a href="mailto:your@email.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+
+<a href="https://linkedin.com/in/your-profile">
+
+<img src="https://img.shields.io/badge/LinkedIn-Network-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+
+<a href="https://github.com/yourusername">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+
+<a href="https://your-portfolio.com">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+
+
+---
+
+
+
+<p align="center">
+
+"Engineering elegant systems that scale from ideas to impact."
+
+</p>
+
+
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</p>
