@@ -156,48 +156,6 @@ Developed NLP pipelines and retrieval systems for intelligent document understan
 
 ---
 
-# Experience
-
-## Senior Software Engineer | Company Name
-
-**Jan 2024 – Present**
-
-Leading software engineering initiatives across cloud infrastructure, platform architecture, and AI-enabled systems.
-
-### Scope of Work
-
-- Designed scalable backend architectures
-- Led cloud migration projects
-- Built CI/CD automation pipelines
-- Improved system reliability and observability
-- Mentored engineering teams
-
-**Skills**
-
-`Python` `FastAPI` `Docker` `PostgreSQL`
-
----
-
-## Software Engineer | Company Name
-
-**Jan 2022 – Dec 2023**
-
-Developed full-stack applications and backend services supporting business-critical operations.
-
-### Scope of Work
-
-- Built APIs and backend services
-- Developed internal platforms
-- Improved performance and scalability
-- Implemented monitoring solutions
-
-**Skills**
-
-`React` `Node.js` `Redis` `Docker`
-
-
----
-
 # Coding Profiles
 
 <p align="center">
