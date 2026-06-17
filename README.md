@@ -16,20 +16,6 @@
   <img src="https://img.shields.io/badge/Location-Iran-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://tavallai.ir">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tavallai">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohsentavalay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/xorep1">
-    <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xorep1&style=for-the-badge&color=7C3AED" />
