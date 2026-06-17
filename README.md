@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Mohsen%20Tavallai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Scalable+Systems;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Building+Scalable+Systems;Open+Source+Contributor" />
 </p>
 
 <p align="center">
@@ -174,7 +174,7 @@ Leading software engineering initiatives across cloud infrastructure, platform a
 
 **Skills**
 
-`Python` `FastAPI` `AWS` `Docker` `Kubernetes` `PostgreSQL`
+`Python` `FastAPI` `Docker` `PostgreSQL`
 
 ---
 
@@ -195,37 +195,6 @@ Developed full-stack applications and backend services supporting business-criti
 
 `React` `Node.js` `Redis` `Docker`
 
----
-
-# Achievements
-
-| Recognition | Details |
-|------------|---------|
-| Open Source Contributor | Contributions across multiple repositories |
-| Technical Leadership | Led engineering initiatives |
-| System Architecture | Designed scalable platforms |
-| AI Innovation | Delivered production AI solutions |
-| Engineering Excellence | High-quality software delivery |
-
----
-
-# Certifications
-
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
 
 ---
 
