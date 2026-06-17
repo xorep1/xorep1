@@ -197,7 +197,7 @@ Open_To:
 
 <p align="center">
 
-<a href="mailto:mohsentavalay@email.com">
+<a href="mohsentavalay@Gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 
