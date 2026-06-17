@@ -197,7 +197,7 @@ Open_To:
 
 <p align="center">
 
-<a href="mailto:your@email.com">
+<a href="mailto:mohsentavalay@email.com">
 
 <img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 
@@ -205,7 +205,7 @@ Open_To:
 
 
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/tavallai">
 
 <img src="https://img.shields.io/badge/LinkedIn-Network-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -213,7 +213,7 @@ Open_To:
 
 
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/xorep1">
 
 <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -221,7 +221,7 @@ Open_To:
 
 
 
-<a href="https://your-portfolio.com">
+<a href="https://tavallai.ir">
 
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 
