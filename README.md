@@ -82,7 +82,7 @@ Beyond the main frameworks, I actively use a rich ecosystem of libraries and arc
 |----------|-----------------------|
 | **Frontend Tools** | React Native, Shadcn UI, Formik, React Hook Form, React Router, TanStack (Query/Table), Axios, Alpine.js |
 | **Backend & Data** | Pydantic, ORMs, SQL |
-| **AI & LLMs** | Ollama |
+| **AI & LLMs** |
 | **Architecture** | Object-Oriented Programming (OOP), Clean Code |
 
 ---
